@@ -1,0 +1,23 @@
+.thumbnail {
+    padding: 10%;
+}
+.thumbnail img{
+    max-height: 180px;
+    vertical-align: middle;
+}
+.thumbnail .description {
+    color: #7f7f7f;
+}
+.price{
+    font-weight: bold;
+    font-size: 16px;
+}
+.loginbox {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.logininfo {
+    padding: 10%;
+    background-color:#fafafa;
+    border-radius:8px;
+}
